@@ -4,7 +4,7 @@ I’m passionate about my work as a DevOps and Cloud Native Engineer, and I want
 ### 🧐 More About Me:
 - ✏️ I have recently begun documenting my well-documented IT adventures on [my personal blog](https://www.miriodev.net).
 - 💬 Ask me about anything tech related, I am happy to help.
-- 🔗 Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/asbarbati/).
+- 🔗 Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/alessandrosbarbati/).
 - 🖥️ ⌨️ I am a seasoned gamer with a particular interest in MMORPGs and FPS titles. I am always seeking new challenges and immersive experiences within virtual worlds.
 
 ### 🔨 Languages and Tools:
